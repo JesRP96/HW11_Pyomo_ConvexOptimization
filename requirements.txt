@@ -4,6 +4,5 @@ cplex==22.1.0.0
 networkx==2.6.3
 scipy==1.4.1
 gurobipy==9.5.1
-sys==3.7.13
 matplotlib==3.2.2
 numpy==1.21.5
